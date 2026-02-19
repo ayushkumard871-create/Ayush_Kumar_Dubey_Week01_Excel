@@ -1,14 +1,14 @@
 # Ayush_Kumar_Dubey_Week01_Excel
-# 📊 E-commerce Sales Data Analysis (MS Excel)
+# 📊 Retail Store Sales Analysis
 
 ## Brief Summary:
-Analysis of e-commerce sales data using Excel to uncover revenue trends, customer behavior patterns, and business performance insights through dashboards and pivot-based reporting.
+Analysis of retail store sales data using Excel to uncover revenue trends, customer behavior patterns, and business performance insights through dashboards and pivot-based reporting.
 
 ---
 
 ## 📌 Overview:
 
-This project analyzes transactional e-commerce data to evaluate sales performance and identify key business drivers. The workflow includes data cleaning, structuring datasets, building pivot tables, creating visual dashboards, and translating findings into actionable business recommendations.
+This project analyzes transactional retail store data to evaluate sales performance and identify key business drivers. The workflow includes data cleaning, structuring datasets, building pivot tables, creating visual dashboards, and translating findings into actionable business recommendations.
 
 The focus was not just on charts, but on deriving insights that support business decisions.
 
