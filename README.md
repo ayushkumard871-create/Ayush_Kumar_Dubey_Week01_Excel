@@ -96,15 +96,6 @@ The project demonstrates how Excel can be used as a practical business intellige
 
 ---
 
-## 🔮 Future Work
-
-* Automate reporting using Excel VBA
-* Expand analysis using SQL or Power BI
-* Introduce advanced KPI tracking (customer retention, profit margin analysis)
-* Improve dashboard interactivity with slicers and dynamic visuals
-
----
-
 ## 👤 Author & Contact
 
 Ayush Kumar Dubey
